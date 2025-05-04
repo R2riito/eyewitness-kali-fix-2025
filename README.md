@@ -3,6 +3,12 @@ Fixing EyeWitness 0.36.0 for Kali Linux (May 2025) and replacing GoWitness
 
 # EyeWitness v0.36.0 Integration into Recon Workflow (Kali Linux, May 2025)
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![EyeWitness](https://img.shields.io/badge/EyeWitness-v0.36.0-purple)
+![Maintained](https://img.shields.io/badge/Status-Maintained-brightgreen)
+
+
 This repository documents my process of **replacing Gowitness** with the **latest EyeWitness v0.36.0** in my `recon.sh` script on Kali Linux, as part of hands-on penetration testing practice (inspired by the TCM PNPT course).
 
 ---
